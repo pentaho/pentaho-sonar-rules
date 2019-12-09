@@ -1,0 +1,1 @@
+# pentaho-sonar-rules
